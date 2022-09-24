@@ -1,4 +1,4 @@
-## Hello I am @Mjnayem
+# Hello! I am Mjnayem. Full stack developer
 
 
 Develop Exciting and Creative Software Applications.
